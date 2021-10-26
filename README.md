@@ -14,4 +14,4 @@ The looky_spider function in the main.py file runs a web crawler on unsplash.com
 
 ### Thank You
 
-If you have any comments or contributions feel free to create a pull request to the dev_test branch of this project.
+If you have any comments or contributions feel free to create a pull request to the dev_test branch of this project or add a comment to the code.
